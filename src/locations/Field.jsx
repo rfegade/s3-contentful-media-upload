@@ -93,7 +93,7 @@ const Field = () => {
     const accessToken = "iNizcK4O9LL9fAkWWv4bJHyQijg5bKfwFcw0DAEUeFs";
     const spaceId = "etwu0bmn8pbx";
 
-    const contentTypeId = 'recipe';
+    const contentTypeId = 'article';
 
     const contentful = require('contentful');
     const client = contentful.createClient({
